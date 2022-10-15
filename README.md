@@ -2,9 +2,15 @@
 
 A new Flutter study project.
 
+![flutter study demo](https://github.com/cywcd/flutter_study_demo/blob/main/assets/images/demo.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+```
+flutter run
+```
 
 A few resources to get you started if this is your first Flutter project:
 
