@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659432672469",
+    "project_id": "cywcd-95f2c",
+    "storage_bucket": "cywcd-95f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659432672469:android:99a3cddf2f4e30644fa65c",
+        "android_client_info": {
+          "package_name": "fluter_demo1.cywcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659432672469-r7ntcgfovboi4toasaipnl4supc6dhtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbDQhOXxnuyy-wAC6Q_jwGyztHm9PVA4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659432672469-r7ntcgfovboi4toasaipnl4supc6dhtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
