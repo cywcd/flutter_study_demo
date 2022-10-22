@@ -9,8 +9,9 @@ import 'package:flutter_demo1/global_key.dart';
 import 'package:flutter_demo1/http_dio.dart';
 import 'package:flutter_demo1/get_battery.dart';
 import 'package:flutter_demo1/page_params.dart';
-import 'package:flutter_demo1/plug_left_scroll_delete.dart';
-import 'package:flutter_demo1/plug_sharedPreferences.dart';
+import 'package:flutter_demo1/plugin/plugin_left_scroll_delete.dart';
+import 'package:flutter_demo1/plugin/plugin_sharedPreferences.dart';
+import 'package:flutter_demo1/plugin/plugin_webview_flutter.dart';
 import 'package:flutter_demo1/route_params.dart';
 import 'package:flutter_demo1/widgets/widget_positioned.dart';
 import 'package:flutter_demo1/widgets/widget_wrap_padding.dart';
@@ -66,4 +67,5 @@ Map<String, WidgetBuilder> routes = {
   'globalKey': (context) => const GlobalKeyContext(),
   'pageParam': (context) => PageParams(),
   'battery': (context) => const GetBatteryDemo(),
+  'webView': (context) => const WebViewExample(),
 };

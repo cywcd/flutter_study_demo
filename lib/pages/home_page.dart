@@ -77,10 +77,15 @@ class _HomePageState extends State<HomePage> {
         const Divider(),
         _tile('Page Battery', 'page Battery example', Icons.list, 'battery'),
         const Divider(),
-        _tile('Plug SharedPreferences', 'Plug SharedPreferences example',
+        _tile('Plugin SharedPreferences', 'Plugin SharedPreferences example',
             Icons.list, 'sharedPreferences'),
-        _tile('Plug left_scroll_actions', 'Plug left_scroll_actions example',
-            Icons.list, 'leftScrollDelete'),
+        _tile(
+            'Plugin left_scroll_actions',
+            'Plugin left_scroll_actions example',
+            Icons.list,
+            'leftScrollDelete'),
+        _tile('Plugin webview_flutter', 'Plugin webview_flutter example',
+            Icons.list, 'webView'),
       ],
     );
   }
