@@ -2,7 +2,7 @@
 
 A new Flutter study project.
 
-![flutter study demo](https://github.com/cywcd/flutter_study_demo/blob/main/assets/images/demo.png)
+<img src="https://github.com/cywcd/flutter_study_demo/blob/main/assets/images/demo.png" width="500px">
 
 ## Getting Started
 
